@@ -1,5 +1,5 @@
 __author__ = 'seanhendryx'
-#Get historical stock data (adjusted closing prices) from yahoo
+#Get historical stock data (adjusted closing prices) from yahoo and output data as a csv named historicalCloses
 
 import pandas_datareader.data as web
 import time
