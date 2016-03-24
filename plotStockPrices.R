@@ -4,7 +4,7 @@
 library(plotly)
 
 #Set working directory
-setwd("/Users/seanhendryx/Google Drive/DataVizPresentation")
+setwd("/Your/path/here")
 
 #Read data into R
 data <- read.table("historicalCloses", header = TRUE, sep="")
