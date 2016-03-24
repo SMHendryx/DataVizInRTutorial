@@ -1,11 +1,10 @@
-require(graphics)
-library(lattice)
-require(lubridate)
+# Authored by Sean Hendryx
+
 require(ggplot2)
 library(plotly)
 
 #To set working directory in R:
-#setwd("/Your/path/here")
+setwd("/Your/path/here")
 #^path to data
 
 #Or place data in same directory as script and do:
