@@ -7,7 +7,7 @@ DataVizInR.R is a script to make plots with ggplot2 using built-in R data
 The other scripts use the web-scraped data included here.
 
 Example graphical output:
-![interactive plotly example](Example Interactive Graphic.jpg)
+![interactive plotly example](Example Interactive Graphic.png)
 
 knitr examples in *.html
 
