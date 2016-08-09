@@ -7,4 +7,6 @@ DataVizInR.R is a script to make plots with ggplot2 using built-in R data
 The other scripts use the web-scraped data included here.
 
 Markdown example
-![knitr](plotStockPrices.html)
+http://htmlpreview.github.com/?
+https://github.com/SMHendryx/DataVizInRTutorial/blob/master/plotStockPrices.html
+
